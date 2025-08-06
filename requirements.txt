@@ -1,0 +1,4 @@
+google-generativeai 
+datasets
+litellm 
+pydantic

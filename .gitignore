@@ -1,0 +1,3 @@
+venv/
+src/GEPA/__pycache__/
+examples/__pycache__/
